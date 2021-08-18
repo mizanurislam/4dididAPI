@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": 1,
+        "social_network_id": 1,
+        "social_network_url": "https://www.facebook.com/user=123",
+        "status": 1
+    },
+    {
+        "user_id": 1,
+        "social_network_id": 2,
+        "social_network_url": "https://twitter.com/user=234",
+        "status": 2
+    }
+]

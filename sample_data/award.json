@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "BAFTA",
+        "icon": "bafta.jpg",
+        "url": "http://www.example.com"
+    },
+    {
+        "id": 2,
+        "name": "Asia Top 2020",
+        "icon": "asiatop2020.jpg",
+        "url": "https://www.example.com"
+    }
+]

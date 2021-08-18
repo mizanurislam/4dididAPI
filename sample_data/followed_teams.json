@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "user_id": 15,
+        "team_id": 1,
+        "followed_at": 1624586395006
+    },
+    {
+        "id": 2,
+        "user_id": 15,
+        "team_id": 2,
+        "followed_at": 1624586391015
+    },
+    {
+        "id": 3,
+        "user_id": 15,
+        "team_id": 8,
+        "followed_at": 1254586395025
+    }
+]

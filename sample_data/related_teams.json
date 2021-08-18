@@ -1,0 +1,14 @@
+[
+    {
+        "team_id": 1,
+        "related_team_id": 3
+    },
+    {
+        "team_id": 1,
+        "related_team_id": 5
+    },
+    {
+        "team_id": 1,
+        "related_team_id": 7
+    }
+]

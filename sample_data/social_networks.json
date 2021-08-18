@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Facebook",
+        "icon": "fb.jpg",
+        "url": "https://www.facebook.com"
+    },
+    {
+        "id": 2,
+        "name": "Twitter",
+        "icon": "tw.jpg",
+        "url": "https://twitter.com"
+    },
+    {
+        "id": 3,
+        "name": "LinkedIn",
+        "icon": "lk.jpg",
+        "url": "https://www.linkedin.com"
+    }
+]

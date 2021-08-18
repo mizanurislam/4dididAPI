@@ -1,0 +1,33 @@
+
+[
+    {
+        "id": 1,
+        "title": "Team A",
+        "team_location": "Tokyio, Japan",
+        "established_at": "2012-06-15",
+        "logo_image": "teama_logo.jpg",
+        "background_image": "teama_bg.jpg",
+        "team_image": "teama.jpg",
+        "team_details": "Team A details...",
+        "project_details": "Project details for Team A..",
+        "people_details": "Member details of Team A..",
+        "more_details": "Team A more details...",
+        "website": "http://www.teama.com",
+        "active": 1
+    },
+    {
+        "id": 2,
+        "title": "Team B",
+        "team_location": "Dhaka, Bangladesh",
+        "established_at": "2020-02-10",
+        "logo_image": "teamb_logo.jpg",
+        "background_image": "teamb_bg.jpg",
+        "team_image": "teamb.jpg",
+        "team_details": "Team B details...",
+        "project_details": "Project details for Team B..",
+        "people_details": "Member details of Team B..",
+        "more_details": "Team B more details...",
+        "website": "http://www.teamb.com",
+        "active": 1
+    }
+]

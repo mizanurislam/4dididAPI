@@ -1,0 +1,14 @@
+[
+    {
+        "team_id": 1,
+        "social_network_id": 1,
+        "social_network_url": "https://www.facebook.com/team=123",
+        "status": 1
+    },
+    {
+        "team_id": 1,
+        "social_network_id": 2,
+        "social_network_url": "https://twitter.com/team=234",
+        "status": 2
+    }
+]

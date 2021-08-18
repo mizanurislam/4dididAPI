@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Create Member"
+    },
+    {
+        "id": 2,
+        "name": "Assign Admin"
+    },
+    {
+        "id": 3,
+        "name": "Manage Teams"
+    },
+    {
+        "id": 4,
+        "name": "Register Team Member"
+    },
+    {
+        "id": 5,
+        "name": "Manage Projects"
+    },
+    {
+        "id": 6,
+        "name": "Manage Social Networks"
+    }
+]

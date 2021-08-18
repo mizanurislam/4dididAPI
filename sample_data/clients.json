@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "4 Digit",
+        "email": "4d_san@4digit.jp",
+        "website": "http://www.4d_san.jp.com",
+        "contact_number": "111-1111",
+        "location": "Tokiyo, Japan"
+    },
+    {
+        "id": 2,
+        "name": "Sony",
+        "email": "sony_san@sony.jp",
+        "website": "http://www.sony.jp.com",
+        "contact_number": "111-2222",
+        "location": "Tokiyo, Japan"
+    }
+]
